@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/> 
   <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/> 
 </p>
+<p>To be continued 🚀...</p>
+  <img src="https://img.shields.io/badge/Angular-db3035?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+
 
 
 
