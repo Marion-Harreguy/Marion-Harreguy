@@ -6,22 +6,21 @@
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/SCSS-f9439e?style=for-the-badge&logo=scss&logoColor=white" alt="SCSS"/>
   <img src="https://img.shields.io/badge/Boostrap-553b7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Booststrap"/>
+  <img src="https://img.shields.io/badge/Python-2094bf?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/> 
+  <img src="https://img.shields.io/badge/Postman-f29704?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> 
+  <img src="https://img.shields.io/badge/Selenium-54b73d?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/> 
+  <img src="https://img.shields.io/badge/Appium-8442a5?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/> 
+  <img src="https://img.shields.io/badge/Robot Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework"/> 
+  <img src="https://img.shields.io/badge/JIRA-3ca9e8?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/> 
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
   <img src="https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/JQuery-0865a6?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> 
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/> 
-  <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/> 
+  <img src="https://img.shields.io/badge/WordPress-30b6ff?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/> 
 </p>
-<p>To be continued 🚀...</p>
-  <img src="https://img.shields.io/badge/Angular-db3035?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-
-
-
 
 <h2 align="left">💻 Outils </h2>
 <p align="left">
